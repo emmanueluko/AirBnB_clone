@@ -273,11 +273,21 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 
 ```bash
 (hbnb) create User
-1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "andemumoh@gmail.com"
-(hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
-[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2022, 11, 24, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2022, 11, 24, 23, 42, 10, 502186), 'email': 'andemumoh@gmail.com'}
-(hbnb)
+need to verify
 
 ```
-
+uthors
+<details>
+    <summary>name here</summary>
+    <ul>
+    <li><a href="">Github</a></li>
+    <li><a href="mailto:@gmail.com">e-mail</a></li>
+    </ul>
+</details>
+<details>
+    <summary>name here</summary>
+    <ul>
+    <li><a href="">Github</a></li>
+    <li><a href="">e-mail</a></li>
+    </ul>
+</details>
