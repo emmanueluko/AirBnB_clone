@@ -276,18 +276,18 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 need to verify
 
 ```
-uthors
+authors
 <details>
-    <summary>name here</summary>
+    <summary>Emmanuel Uko</summary>
     <ul>
-    <li><a href="">Github</a></li>
-    <li><a href="mailto:@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/emmanueluko">Github</a></li>
+    <li><a href="mailto:ukoemmanuel3@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>name here</summary>
+    <summary>Edem Ukoh</summary>
     <ul>
-    <li><a href="">Github</a></li>
-    <li><a href="">e-mail</a></li>
+    <li><a href="github.com/EdemEssang">Github</a></li>
+    <li><a href="edemukohassociates@outlook.com">e-mail</a></li>
     </ul>
 </details>
